@@ -1,0 +1,15 @@
+/Users/hugof/Projects/InheritanceC/InheritanceC/bin/Debug/net5.0/InheritanceC.deps.json
+/Users/hugof/Projects/InheritanceC/InheritanceC/bin/Debug/net5.0/InheritanceC.runtimeconfig.json
+/Users/hugof/Projects/InheritanceC/InheritanceC/bin/Debug/net5.0/InheritanceC.runtimeconfig.dev.json
+/Users/hugof/Projects/InheritanceC/InheritanceC/bin/Debug/net5.0/InheritanceC.dll
+/Users/hugof/Projects/InheritanceC/InheritanceC/bin/Debug/net5.0/ref/InheritanceC.dll
+/Users/hugof/Projects/InheritanceC/InheritanceC/bin/Debug/net5.0/InheritanceC.pdb
+/Users/hugof/Projects/InheritanceC/InheritanceC/obj/Debug/net5.0/InheritanceC.csproj.AssemblyReference.cache
+/Users/hugof/Projects/InheritanceC/InheritanceC/obj/Debug/net5.0/InheritanceC.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hugof/Projects/InheritanceC/InheritanceC/obj/Debug/net5.0/InheritanceC.AssemblyInfoInputs.cache
+/Users/hugof/Projects/InheritanceC/InheritanceC/obj/Debug/net5.0/InheritanceC.AssemblyInfo.cs
+/Users/hugof/Projects/InheritanceC/InheritanceC/obj/Debug/net5.0/InheritanceC.csproj.CoreCompileInputs.cache
+/Users/hugof/Projects/InheritanceC/InheritanceC/obj/Debug/net5.0/InheritanceC.dll
+/Users/hugof/Projects/InheritanceC/InheritanceC/obj/Debug/net5.0/ref/InheritanceC.dll
+/Users/hugof/Projects/InheritanceC/InheritanceC/obj/Debug/net5.0/InheritanceC.pdb
+/Users/hugof/Projects/InheritanceC/InheritanceC/obj/Debug/net5.0/InheritanceC.genruntimeconfig.cache
