@@ -1,17 +1,18 @@
 ﻿<Properties StartupConfiguration="{ABAE8CAE-D6A8-4557-B57D-1D8E1CA195EE}|Default">
   <MonoDevelop.Ide.ItemProperties.InheritanceC PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="InheritanceC/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="InheritanceC/VideoPost.cs">
     <Files>
-      <File FileName="InheritanceC/Program.cs" Line="12" Column="107" />
-      <File FileName="InheritanceC/Post.cs" Line="51" Column="13" />
-      <File FileName="InheritanceC/ImagePost.cs" Line="22" Column="108" />
+      <File FileName="InheritanceC/Program.cs" Line="17" Column="1" />
+      <File FileName="InheritanceC/Post.cs" />
+      <File FileName="InheritanceC/ImagePost.cs" />
+      <File FileName="InheritanceC/VideoPost.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="InheritanceC" expanded="True">
             <Node name="InheritanceC" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="VideoPost.cs" selected="True" />
             </Node>
           </Node>
         </State>
